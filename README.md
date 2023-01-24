@@ -1,4 +1,4 @@
-# A Passionate Mobile Applications Engineer From Egypt 🇪🇬
+# A Passionate Mobile Applications Engineer From Egypt 
 🔭 I’m currently working on GMind
 
 🌱 I’m currently learning new mobile technologies
